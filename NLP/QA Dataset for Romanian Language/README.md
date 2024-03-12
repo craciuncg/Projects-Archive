@@ -4,6 +4,8 @@
 
 This is a collection of multiple choice adnotated questions from the medical and law fields from different sources in Romanian language.
 
+This dataset is still under development and thus, I left 2 samples from the dataset. Eventually, this dataset will be published on HuggingFace.
+
 ## Description
 
 * The medical questions are from the entrance exams at different medical schools in Romania. It consists of approximately 8600 questions.
